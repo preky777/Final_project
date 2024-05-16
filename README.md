@@ -111,21 +111,13 @@ The classifier and its evaluation are documented in dog_cat_class_model.ipynb.
     .
     ├── project1_twitter_sentiment_analysis
     │   └── twitter_sa.ipynb
-    │   └── logistic_regression_model.pkl
-    │   └── tfidf_vectorizer.pkl
-    │   └── preprocess_tweet_function.pkl
     ├── project2_guvi_course_ratings
     │   └── ratings.ipynb
-    │   └── random_forest_regressor_model.pkl
-    │   └── scaler.pkl
-    │   └── ohe_level.pkl
-    │   └── ohe_subject.pkl
     ├── project3_instagram_influencers
     │   └── instagram_infs.docx
     ├── project4_image_classification
     │   └── dog_cat_class_model.ipynb
     ├── README.md
-    └── requirements.txt
 
 
 ## Installation
