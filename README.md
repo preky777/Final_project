@@ -137,8 +137,6 @@ To run these projects locally, follow these steps:
     2.Navigate to the project directory:
     cd data-science-portfolio
     
-    3.Install the required libraries:
-    pip install -r requirements.txt
 
 ## Usage
 
